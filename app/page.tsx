@@ -19,7 +19,5 @@ export default function Home() {
 
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 98e6c9e8fba949d8431ccf8fd92f5e086555451d
+
